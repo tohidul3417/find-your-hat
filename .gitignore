@@ -1,0 +1,7 @@
+# Node.js dependencies
+node_modules/
+
+# System or editor-specific files
+.DS_Store
+.env
+.vscode/
